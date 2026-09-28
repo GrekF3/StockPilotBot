@@ -1,4 +1,4 @@
-# Telegram Inventory Bot
+# StockPilot Bot
 
 A Telegram bot for tracking stock movements and shift-level inventory counts.
 
